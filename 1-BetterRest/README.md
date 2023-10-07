@@ -1,6 +1,6 @@
 # BetterRest
 
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### Hi 🙋‍♂️
 
 The app was built to help coffee drinkers get a good night's sleep by asking them three questions:
 
@@ -16,12 +16,15 @@ This is where machine learning comes in: using a technique called regression ana
 ### Built With
 
 <p align="left">
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/4760a9bb-21a1-4e39-aef4-6295fdd4a0b3" width="40" height="40" alt="Swift" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/05b8ae36-a824-47e6-8444-12644c6f641f" width="40" height="40" alt="SwiftUI" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/b448f2e4-f05a-4410-a41c-16bc2faba3d8" width="40" height="40" alt="CoreML" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/30edf512-b79a-4e4d-89de-9e297ac41260" width="40" height="40" alt="CreateML" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Swift-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/CoreML-cadetblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/CreateML-forestgreen?style=for-the-badge">
 </p>
 
 #### Screenshots
 
-![README ss'y](https://github.com/savaqe21/App-BetterRest/assets/113838982/34eac8b1-5b69-43d2-b453-0f6bb89b1f5b)
+<img style="width: 300px; heigth: 300px;" src="https://github.com/savaqe21/IntermediateApps/assets/113838982/f3386fae-6f4e-4876-b872-d700e6bc441b">
+<img style="width: 300px; heigth: 300px;" src="https://github.com/savaqe21/IntermediateApps/assets/113838982/7044ec44-69e7-49cf-a83e-0c71bade0962">
+<img style="width: 300px; heigth: 300px;" src="https://github.com/savaqe21/IntermediateApps/assets/113838982/90eb8e9c-595f-4a1b-aaee-57c7a17ae342">
+
